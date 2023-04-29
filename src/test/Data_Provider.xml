@@ -1,0 +1,9 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+<suite name="webSuite" parallel="none">
+    <test name="Data_Provider">
+        <classes>
+            <class name="Chaldal"/>
+        </classes>
+    </test>
+
+</suite>
